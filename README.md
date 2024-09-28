@@ -3,6 +3,10 @@
 
 The Healthcare Web App is a React-based application that allows users to manage healthcare services. Users can add, edit, and remove services, and the data persists in localStorage to retain services across browser sessions.
 
+![Screenshot 2024-09-28 094106](https://github.com/user-attachments/assets/b959be68-abd4-4e86-a387-1cdd35dabf24)
+![Screenshot 2024-09-28 094434](https://github.com/user-attachments/assets/3501dc94-86aa-4972-9b3c-0f2fa7ac6b9a)
+
+
 
 ## Features
 
